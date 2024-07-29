@@ -1,0 +1,21 @@
+{
+  "name": "lopoi-theme",
+  "displayName": "Lopoi Theme",
+  "description": "Alternate version of dark high contrast",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lopoi's Dark High Contrast",
+        "uiTheme": "hc-black",
+        "path": "./themes/Lopoi's Dark High Contrast-color-theme.json"
+      }
+    ]
+  }
+}
