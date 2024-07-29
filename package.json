@@ -1,6 +1,11 @@
 {
   "name": "lopoi-theme",
-  "displayName": "Lopoi Theme",
+  "publisher": "Lopoi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lopoi/lopois-theme"
+  },
+  "displayName": "Lopoi's Theme",
   "description": "Alternate version of dark high contrast",
   "version": "0.0.1",
   "engines": {
